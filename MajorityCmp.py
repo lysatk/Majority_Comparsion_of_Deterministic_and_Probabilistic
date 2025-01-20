@@ -1,6 +1,6 @@
 import random
 import collections
-import tracemalloc  # Importing the tracemalloc module for memory tracking
+import tracemalloc  
 
 # Algorytm deterministyczny (Boyer-Moore)
 def majority_element_deterministic(a):
